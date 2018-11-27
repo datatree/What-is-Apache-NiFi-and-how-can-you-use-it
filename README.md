@@ -3,6 +3,7 @@
 This repository will deal with the integration of NiFi and Python 3.67, Scrapy with the   databases (Oracle, MySQL, SQL Server and Hive). This repository will describe the necessary steps for the installation of seven software packages and the configuration of the Ubuntu 18.04 and Windows operating systems to enable the integration of the different software packages.
 
 The software:
+
     1. Nifi software (64bit).
     
     2. Scrapy a Python application (web spider) for the scraping of web pages of data.

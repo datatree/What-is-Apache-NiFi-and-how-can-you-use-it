@@ -4,7 +4,11 @@ This repository will deal with the integration of NiFi and Python 3.67, Scrapy w
 
 The software:
     1. Nifi software (64bit).
+    
     2. Scrapy a Python application (web spider) for the scraping of web pages of data.
+    
     3. The Oracle 12c client ( 64 bit).
+    
     4. Configuration of the Oracle client and the software environment.
+    
     5. Installation of the MySQL, SQL Server, Hive and Oracle databases.
